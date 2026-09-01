@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "ŠvaraBin — valymas Klaipėdoje",
+      "hasCanvas": false,
+      "bodyTextLen": 2234,
+      "bodyTextHash": "9e1dd9f4f4d6b0aadc19b521c3b7fbae850f991f517dc049a1817382f07aeb5a",
+      "bodyTextPrefix": "ŠvaraBin Klaipėda Paslaugos Apie mus Mano vizitai LT EN Rezervuo",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "ŠvaraBin — valymas Klaipėdoje",
+      "hasCanvas": false,
+      "bodyTextLen": 2086,
+      "bodyTextHash": "27e1ce0e5a445c7c8af231c9d082a3ef4b04e078c83e471c22d47a6953d423dd",
+      "bodyTextPrefix": "ŠvaraBin LT EN KLAIPĖDA IR APYLINKĖS Profesionalus valymas ir bū",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
